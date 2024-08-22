@@ -1,0 +1,6 @@
+@reverseengineexample_HostAddress = http://localhost:5065
+
+GET {{reverseengineexample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
